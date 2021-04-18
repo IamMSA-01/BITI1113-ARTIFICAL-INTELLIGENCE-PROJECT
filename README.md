@@ -7,10 +7,10 @@
 **Project Title:** Human Emotion Recognition
 
 **Team Members:** 
-- Tan Wei Yin
-- Mirza Sahid Afridi
-- Nur Afiqah Bt Raman
-- Pang Jia Mei
+- Tan Wei Yin - B032020029 - 1BITS S1G2
+- Mirza Sahid Afridi - B031920505 - 2BITS S1G1
+- Nur Afiqah Bt Raman - B031910100 - 2BITS S1G2
+- Pang Jia Mei - B031910436 - 2BITS S1G2
 
 
 - [ ] **Objectives:**
